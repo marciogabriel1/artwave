@@ -13,7 +13,7 @@
         <link rel="stylesheet" href="/css/style.css">
         <script src="/js/scripts.js"></script>
     </head>
-    <body">
+    <body>
         <header>
             <nav class="navbar navbar-expand-lg navbar-light">
                 <div class="collapse navbar-collapse" id="navbar">
