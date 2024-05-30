@@ -22,13 +22,10 @@
                     </a>
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a href="/" class="nav-link">serviços</a>
+                            <a href="/" class="nav-link">Serviços</a>
                         </li>
                         <li class="nav-item">
-                            <a href="/" class="nav-link">galeria</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="/" class="nav-link">postar artes</a>
+                            <a href="/" class="nav-link">Designs</a>
                         </li>
                     </ul>
                 </div>
