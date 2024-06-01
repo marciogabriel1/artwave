@@ -14,23 +14,58 @@
         <script src="/js/scripts.js"></script>
     </head>
     <body>
-        <header>
-            <nav class="navbar navbar-expand-lg navbar-light">
-                <div class="collapse navbar-collapse" id="navbar">
-                    <a href="/" class="navbar-brand">
+        <div class="primario">
+            <header>
+                <nav class="navbar navbar-expand-lg navbar-light">
+                    <div class="collapse navbar-collapse" id="navbar">
+                        <a href="/" class="navbar-brand">
                         <img src="/img/" alt="ArtWave">
-                    </a>
-                    <ul class="navbar-nav">
-                        <li class="nav-item">
-                            <a href="/" class="nav-link">Serviços</a>
-                        </li>
-                        <li class="nav-item">
+                        </a>
+                        <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <a href="/" class="nav-link">Serviços</a>
+                            </li>
+                            <li class="nav-item">
                             <a href="/" class="nav-link">Designs</a>
-                        </li>
-                    </ul>
-                </div>
-            </nav>
-        </header>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </header>
+        </div>
+        <div class="section secundario">
+            <div class="cabecalho1">
+                <h1>Inspiração em cada pixel</h1>
+            </div>
+            <div class="paragrafo1">
+                <p>criando logotipos, capas, anúncios, cartões de visita, panfletos e muitos mais com ArtWave Design. Com uma equipe repleta de profissionais qualificados para a criação do melhor desingn para você.</p>
+            </div>
+        </div>
+        <div class="section terciario">
+            <div class="cabecalho2">
+                <h1>Comece criando com ArtWave Desing</h1>
+            </div>
+            <div class="paragrafo2">
+                <p>Comece sua empresa com estilo, com a criação de logotiopos, sites, design de embalagens e muito mais com nossa comunidade de designs pronta para ajudar em tudo o que é preciso para a criação da sua marca.</p> 
+            </div>
+        </div>
+        <div class="section quartenario">
+            <div class="cabecalho3">
+                <h1>Trabalhando com profissionais no qual se pode confiar</h1>
+            </div>
+            <div class="paragrafo3">
+                <p>Conte com uma equipe de especialistas em designs que você pode confiar e dê uma olhada em seus portifolios repletos de projetos de alta qualidade.</p>
+            </div>
+        </div>
+        <div class="section quinario">
+
+        </div>
+        <div class="senario">
+
+        </div>
+        <div class="setenario">
+
+        </div>
         @yield('content')
     </body>
 </html>
