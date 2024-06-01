@@ -9,7 +9,7 @@
 }
 
 .primario {
-    background-color: blue;
+    background-color: rgba(18, 77, 241, 0.884);
 }
 
 .section {
@@ -20,17 +20,27 @@
 }
 
 .secundario {
-    background-color: blue;
+    background-color: rgba(18, 77, 241, 0.884);
 }
 
 .cabecalho1 {
     display: flex;
     padding-top: 150px;
     padding-left: 200px;
+    width: 1700px;
+    height: 400px;
 }
 
 .terciario {
     color: black;
+}
+
+.cabecalho2 {
+    display: flex;
+    padding-top: 150px;
+    padding-left: 200px;
+    width: 1600px;
+    height: 400px;
 }
 
 .quartenario {
