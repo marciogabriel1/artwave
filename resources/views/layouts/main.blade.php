@@ -38,7 +38,7 @@
                 <h1>Inspiração em cada pixel</h1>
             </div>
             <div class="paragrafo1">
-                <p>criando logotipos, capas, anúncios, cartões de visita, panfletos e muitos mais com ArtWave Design. Com uma equipe repleta de profissionais qualificados para a criação do melhor desingn para você.</p>
+                <p>Criando logotipos, capas, anúncios, cartões de visita, panfletos e muitos mais com ArtWave Design. Com uma equipe repleta de profissionais qualificados para a criação do melhor desingn para você.</p>
             </div>
         </div>
         <div class="section terciario">
